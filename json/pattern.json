@@ -1,0 +1,88 @@
+{
+	"id": "<entityid>",
+	"type": "<entitytype",
+	"municipality": {
+		"type": "Text",
+		"value": "<municipality>"
+	},
+	"firwareservicepath": {
+		"type": "Text",
+		"value": "<firwareservicepath>"
+	},
+	"timeinstant": {
+		"type": "DateTime",
+		"value": "<timeinstant>"
+	},
+	"voltager": {
+		"type": "Text",
+		"value": "<voltager>"
+	},
+	"voltages": {
+		"type": "Text",
+		"value": "<voltages>"
+	},
+	"voltaget": {
+		"type": "Text",
+		"value": "<voltaget>"
+	},
+	"intensityr": {
+		"type": "Text",
+		"value": "<intensityr>"
+	},
+	"intensitys": {
+		"type": "Text",
+		"value": "<intensitys>"
+	},
+	"intensityt": {
+		"type": "Text",
+		"value": "<intensityt>"
+	},
+	"activepowerr": {
+		"type": "Text",
+		"value": "<activepowerr>"
+	},
+	"activepowers": {
+		"type": "Text",
+		"value": "<activepowers>"
+	},
+	"activepowert": {
+		"type": "Text",
+		"value": "<activepowert>"
+	},
+	"reactivepowerr": {
+		"type": "Text",
+		"value": "<reactivepowerr>"
+	},
+	"reactivepowers": {
+		"type": "Text",
+		"value": "<reactivepowers>"
+	},
+	"reactivepowert": {
+		"type": "Text",
+		"value": "<reactivepowert>"
+	},
+	"powerfactorr": {
+		"type": "Text",
+		"value": "<powerfactorr>"
+	},
+	"powerfactors": {
+		"type": "Text",
+		"value": "<powerfactors>"
+	},
+	"powerfactort": {
+		"type": "Text",
+		"value": "<powerfactort>"
+	},
+	"contadorweactiva": {
+		"type": "Text",
+		"value": "<contadorweactiva>"
+	},
+	"contadorereactivainductiva": {
+		"type": "Text",
+		"value": "<contadorereactivainductiva>"
+	},
+	"valorentradaanalog": {
+		"type": "Text",
+		"value": "<valorentradaanalog>"
+	}
+}
