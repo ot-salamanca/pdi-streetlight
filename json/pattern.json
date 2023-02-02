@@ -1,6 +1,6 @@
 {
 	"id": "<entityid>",
-	"type": "<entitytype",
+	"type": "<entitytype>",
 	"municipality": {
 		"type": "Text",
 		"value": "<municipality>"
@@ -10,7 +10,7 @@
 		"value": "<firwareservicepath>"
 	},
 	"timeinstant": {
-		"type": "DateTime",
+		"type": "Text",
 		"value": "<timeinstant>"
 	},
 	"voltager": {

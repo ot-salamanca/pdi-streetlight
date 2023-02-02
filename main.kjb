@@ -465,6 +465,11 @@
       <run_configuration>Pentaho local</run_configuration>
       <parameters>
         <pass_all_parameters>Y</pass_all_parameters>
+        <parameter>
+          <name>jsonFile</name>
+          <stream_name/>
+          <value>${Internal.Entry.Current.Directory}/json/pattern.json</value>
+        </parameter>
       </parameters>
       <parallel>N</parallel>
       <draw>Y</draw>
